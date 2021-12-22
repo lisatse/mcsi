@@ -1,0 +1,8 @@
+run_scripts/*
+*.sh
+!run_scripts/run1.sh
+!run_scripts/params1.txt
+Legion*
+*.txt
+*mistakes*.csv
+*.png
